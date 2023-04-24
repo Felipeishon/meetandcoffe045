@@ -1,1 +1,3 @@
 # meetandcoffe045
+# git log	MUESTRA LA INFORMACIÓN DE LOS COMMITS
+# git status	MUESTRA LA ACTUALIZACIÓN
